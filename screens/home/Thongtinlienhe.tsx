@@ -283,6 +283,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 1,
     elevation: 4,
     shadowRadius: 4,
+    alignItems:'center',
     shadowOffset: {
       width: 0,
       height: 4,
@@ -637,6 +638,7 @@ const styles = StyleSheet.create({
     width: "100%",
     height: 953,
     overflow: "hidden",
+    alignItems:'center'
   },
 });
 
