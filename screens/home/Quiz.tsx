@@ -1,3 +1,10 @@
+/* eslint-disable eol-last */
+/* eslint-disable comma-dangle */
+/* eslint-disable react-native/no-inline-styles */
+/* eslint-disable semi */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable prettier/prettier */
 import React, { useState, useEffect } from 'react';
 import {
     View, Text, TouchableOpacity,

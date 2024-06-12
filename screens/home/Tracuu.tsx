@@ -1,3 +1,9 @@
+/* eslint-disable eol-last */
+/* eslint-disable comma-dangle */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable react/no-unstable-nested-components */
+/* eslint-disable quotes */
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import {
   SafeAreaView,

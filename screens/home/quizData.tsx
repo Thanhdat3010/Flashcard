@@ -1,3 +1,7 @@
+/* eslint-disable eol-last */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable quotes */
+/* eslint-disable prettier/prettier */
 export const quizData = [
     {
         question: "Tên của nguyên tố Ba là gì?",
